@@ -1,0 +1,4 @@
+[DEFAULT]
+url = https://example.system/login/
+user = username
+password =  password
